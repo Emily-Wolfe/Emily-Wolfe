@@ -13,3 +13,8 @@
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/emilymariewolfe/)
 - [Email](ewolfe@student.franciscan.edu)
+<details>
+<summary>LinkedIn</summary>
+<br>
+https://www.linkedin.com/in/emilymariewolfe/
+</details>
