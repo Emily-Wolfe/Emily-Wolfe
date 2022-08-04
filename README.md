@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**Emily-Wolfe/Emily-Wolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Junior at Franciscan University of Steubenville studying Computer Science.
+-Minors in Cybersecurity and Math.
+-DevSecOps  Intern @CMU-SEI.
 
-Here are some ideas to get you started:
+-Favorite Project: ?
+-Currently working on: Internship
+-Languages I know: Python, Bash, JavaScript, SQL, Perl
+-DevOp Skills: Docker, AWS, Agile
+-Other Skills: UML Diagrams, AI, Qlik Sense
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/emilymariewolfe/)
+[Email](ewolfe@student.franciscan.edu)
