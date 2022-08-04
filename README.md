@@ -1,8 +1,8 @@
 # Hi there 👋
 
--Junior at Franciscan University of Steubenville studying Computer Science.
--Minors in Cybersecurity and Math.
--DevSecOps  Intern @CMU-SEI.
+-Junior at Franciscan University of Steubenville studying Computer Science.\
+-Minors in Cybersecurity and Math.\
+-DevSecOps  Intern @CMU-SEI.\
 
 -Favorite Project: ?
 -Currently working on: Internship
