@@ -11,11 +11,16 @@
 -Other Skills: UML Diagrams, AI, Qlik Sense
 
 ### 📫 How to reach me:
-- {<details>
+- <details>
   <summary>LinkedIn</summary>
   <br>
   https://www.linkedin.com/in/emilymariewolfe/
-  </details>}
+  </details>
+- <details>
+  <summary>Email</summary>
+  <br>
+  ewolfe@student.franciscan.edu
+  </details>
 
 - [LinkedIn](https://www.linkedin.com/in/emilymariewolfe/)
 - [Email](ewolfe@student.franciscan.edu)
