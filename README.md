@@ -7,7 +7,7 @@
 -Favorite Project: ? \
 -Currently working on: Internship\
 -Languages I know: Python, Bash, JavaScript, SQL, Perl\
--DevOp Skills: Docker, AWS, Agile\
+-DevOp Skills: Docker, AWS, Agile, GitLab\
 -Other Skills: UML Diagrams, AI, Qlik Sense
 
 ### 📫 How to reach me:
