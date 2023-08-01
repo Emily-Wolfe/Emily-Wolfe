@@ -8,7 +8,7 @@
 -Currently working on: Internship\
 -Languages I know: Python, Bash, JavaScript, SQL, Perl, Java\
 -DevOp Skills: Docker, AWS, Agile, GitLab\
--Other Skills: UML Diagrams, AI, Qlik Sense
+-Other Skills: UML Diagrams, AI, Qlik Sense, Vue.js and Angular frontend frameworks
 
 ### 📫 How to reach me:
   <details>
